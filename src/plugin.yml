@@ -1,0 +1,8 @@
+main: me.dahakka.hub.Main
+name: Hub
+version: 1.0
+commands:
+  Hub:
+    description: Connect to the hub
+  Ghub:
+    description: Quick Connect to a server.
